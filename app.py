@@ -18,7 +18,7 @@ external_stylesheet=[
     }
 ]
 
-patients=pd.read_csv(r"C:\Users\ASUS\Downloads\state_wise_daily.csv")
+patients=pd.read_csv("state_wise_daily.csv")
 total=patients.shape[0]
 active=patients[patients['Status']=='Confirmed'].shape[0]
 recovered=patients[patients['Status']=='Recovered'].shape[0]
