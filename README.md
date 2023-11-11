@@ -4,3 +4,5 @@
 - To run this project firstly install the required.txt libraries
 - Some images from the project are attached below
 - ![image](https://github.com/Shoaibkhan11/corona_virus_pendamic_report/assets/54126582/4c73a614-e4a7-4d9c-85fb-5ee0f7e27326)
+- ![image](https://github.com/Shoaibkhan11/corona_virus_pendamic_report/assets/54126582/ae9c044d-b518-44df-8887-7e083c57b30b)
+
